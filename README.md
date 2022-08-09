@@ -1,3 +1,17 @@
+# Wordle Clone Project
+
+This is a [Wordle](https://www.nytimes.com/games/wordle/index.html) clone project.
+
+Daily puzzle is being fetched from words bank every 24 hours, starting from August 1, 2022.
+
+You can look up the puzzle in console if neccessary.
+
+You can play the game [here](https://manchini1337.github.io/Wordle-Clone).
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
