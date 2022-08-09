@@ -1,0 +1,16 @@
+.word {
+    display: flex;
+    justify-content: center;
+  }
+  
+.char {
+    border: 2px solid rgb(151, 147, 147);
+    display: flex;
+    height: 62px;
+    width: 62px;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+    box-sizing: border-box;
+    font-size: 28px;
+  }
