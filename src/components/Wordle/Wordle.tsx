@@ -17,8 +17,6 @@ const Wordle: React.FC = () => {
   const puzzleOfTheDay = usePuzzleOfTheDay();
   const puzzleWordCharCount = useCharCountMap(puzzleOfTheDay);
 
-  console.log(puzzleOfTheDay);
-
   const isCorrect =
     submittedGuesses.length > 0 &&
     submittedGuesses[submittedGuesses.length - 1].join('') === puzzleOfTheDay;
